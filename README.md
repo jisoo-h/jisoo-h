@@ -35,4 +35,4 @@ I currently apply data science and machine learning to real-world healthcare and
 
 ## Education
 Master’s in Applied Data Science, University of Chicago
-Focused coursework in healthcare analytics, machine learning, and AI-driven decision systems
+- Focused coursework in healthcare analytics, machine learning, and AI-driven decision systems
