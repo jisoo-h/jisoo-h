@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 😄 About Me
 
-Data Scientist and Immuno-Oncology domain expert with 7+ years of pharmaceutical R&D experience at Novartis.
+Product-focused healthcare professiona with Immuno-Oncology domain expertise; 7+ years of pharmaceutical R&D experience at Novartis.
 
 I currently apply data science and machine learning to real-world healthcare and life sciences problems, including real-world data (claims, EHR, RWE), predictive modeling, and HCP/patient analytics across R&D, oncology data science, and commercial launch strategy. 
 
