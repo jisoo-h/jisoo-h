@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## 😄 About Me
 
-Data Scientist and Immuno-Oncology domain expert with 7+ years of pharmaceutical R&D experience at Novartis, currently focused on advanced analytics in Medical Affairs.
+Data Scientist and Immuno-Oncology domain expert with 7+ years of pharmaceutical R&D experience at Novartis.
 
-I currently apply data science and machine learning to real-world healthcare and life sciences problems, including real-world data (claims, EHR, RWE), predictive modeling, and HCP/patient analytics across R&D, oncology data science, and commercial launch strategy. Currently building up foundations in epidemiology to apply to study design.
+I currently apply data science and machine learning to real-world healthcare and life sciences problems, including real-world data (claims, EHR, RWE), predictive modeling, and HCP/patient analytics across R&D, oncology data science, and commercial launch strategy. 
 
 ## Core Expertise
 - Real-World Data Analytics (claims, EHR, RWE)
@@ -34,5 +34,5 @@ I currently apply data science and machine learning to real-world healthcare and
 - Applied advanced analytics to inform decision-making in oncology drug development and lifecycle strategy
 
 ## Education
-Master’s in Applied Data Science, University of Chicago
+Master in Applied Data Science, University of Chicago
 - Focused coursework in healthcare analytics, machine learning, and AI-driven decision systems
